@@ -1,4 +1,4 @@
-# Neural Network from scratch
+# Neural Networks from scratch
 Making a Neural Network with base python packages (numpy)
 
 I will be following [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) tutorial on making Neural Networks from scratch.
